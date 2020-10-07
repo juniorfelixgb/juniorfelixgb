@@ -17,11 +17,11 @@ Mi nombre es Junior Felix soy .NET Developer. Actualmente resido en Republica Do
 
 ### Connect with me:
 
-![website]: ... In Progress
-![youtube]: https://www.youtube.com/channel/UCSfqW4rk8k25f88G3PiC5Gw?view_as=subscriber
-![twitter]: https://twitter.com/JuniorFelix_GB
-![linkedin]: https://www.linkedin.com/in/junior-gervacio/
-![instagram]: https://www.instagram.com/ing.juniorfelixgb/?hl=es-la
+- [website]: ... In Progress
+- [youtube]: https://www.youtube.com/channel/UCSfqW4rk8k25f88G3PiC5Gw?view_as=subscriber
+- [twitter]: https://twitter.com/JuniorFelix_GB
+- [linkedin]: https://www.linkedin.com/in/junior-gervacio/
+- [instagram]: https://www.instagram.com/ing.juniorfelixgb/?hl=es-la
 
 #### Languages and Frameworks:
 
