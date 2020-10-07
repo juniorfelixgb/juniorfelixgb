@@ -1,4 +1,4 @@
-### Hola 👋🏽, Soy [Juniorfelixgb!](https://github.com/juniorfelixgb)
+### Hola 👋🏽, Soy [Junior felix!](https://github.com/juniorfelixgb)
 
 <br/>
 
