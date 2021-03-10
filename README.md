@@ -4,7 +4,9 @@
 <p align="center">
   Hola 👋🏽, Soy [Junior felix!](https://github.com/juniorfelixgb) <br />
   Mi nombre es Junior Felix soy .NET Developer. Actualmente resido en Republica Dominicana 🇩🇴 <br />
-  **Sobre mi**
+  **Sobre mi** <br />
+  Administrador de Blazor Dominicana 🇩🇴 <br />
+   :star2: :star2: :star2: :star2: :star2:
 </p>
 
 <div align="center">
