@@ -8,19 +8,27 @@
 </p>
 
 <div align="center">
-  <ul>
-    <li>👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades;</li>
-    <li>🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Vue.js;</li>
-    <li> 💬 Me mantengo en constante aprendizaje;</li>
-    <li> 🛰 2021 Goals: Dominar Blazor WebAssemby y Blazor Mobile Bindings y mejorar mis habilidades dotnet;</li>
-    <li> 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;</li>
-    <li> 📫 Contactame: juniorfelixgb@gmail.com;</li>
-  </ul>
+    👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades;
+    🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Vue.js;
+    💬 Me mantengo en constante aprendizaje;
+    🛰 2021 Goals: Dominar Blazor WebAssemby y Blazor Mobile Bindings y mejorar mis habilidades dotnet;
+    💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
+    📫 Contactame: juniorfelixgb@gmail.com;
 </div>
 
 ## 🛰 Ver [Proyectos!](... In Progress)
 
 <img src="https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=radical" align="left"/>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 #### Languages and Frameworks:
 
