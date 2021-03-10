@@ -1,31 +1,26 @@
-### Hola 👋🏽, Soy [Junior felix!](https://github.com/juniorfelixgb)
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/33384019?s=460&u=4f77e1d961c3e36b8c0d471864c3ba8215f406f3&v=4" />
+</p>
+<p align="center">
+  Hola 👋🏽, Soy [Junior felix!](https://github.com/juniorfelixgb) <br />
+  Mi nombre es Junior Felix soy .NET Developer. Actualmente resido en Republica Dominicana 🇩🇴 <br />
+  **Sobre mi**
+</p>
 
-<br/>
-
-Mi nombre es Junior Felix soy .NET Developer. Actualmente resido en Republica Dominicana 🇩🇴
-
-**About me:**
-
-- 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
-- 🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Vue.js 2/3💚
-- 💬 Me mantengo en constante aprendizaje.
-- 🛰 2020 Goals: Completar un proyecto grande que tengo tiempo realizando [E-Learning English].
-- 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
-- 📫 Contactame: juniorfelixgb@gmail.com;
+<div align="center">
+  <ul>
+    <li>👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades;</li>
+    <li>🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Vue.js;</li>
+    <li> 💬 Me mantengo en constante aprendizaje;</li>
+    <li> 🛰 2021 Goals: Dominar Blazor WebAssemby y Blazor Mobile Bindings y mejorar mis habilidades dotnet;</li>
+    <li> 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;</li>
+    <li> 📫 Contactame: juniorfelixgb@gmail.com;</li>
+  </ul>
+</div>
 
 ## 🛰 Ver [Proyectos!](... In Progress)
 
 <img src="https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=radical" align="left"/>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 #### Languages and Frameworks:
 
