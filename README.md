@@ -9,7 +9,7 @@
    :star2: :star2: :star2: :star2: :star2:
 </p>
 
-<div align="center">
+<div align="left">
     <p>👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades;</p>
     <p>🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Vue.js;</p>
     <p>💬 Me mantengo en constante aprendizaje;</p>
