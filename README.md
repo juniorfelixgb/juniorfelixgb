@@ -8,12 +8,12 @@
 </p>
 
 <div align="center">
-    👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades;
-    🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Vue.js;
-    💬 Me mantengo en constante aprendizaje;
-    🛰 2021 Goals: Dominar Blazor WebAssemby y Blazor Mobile Bindings y mejorar mis habilidades dotnet;
-    💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
-    📫 Contactame: juniorfelixgb@gmail.com;
+    <p>👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades;</p>
+    <p>🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Vue.js;</p>
+    <p>💬 Me mantengo en constante aprendizaje;</p>
+    <p>🛰 2021 Goals: Dominar Blazor WebAssemby y Blazor Mobile Bindings y mejorar mis habilidades dotnet;</p>
+    <p>💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;</p>
+    <p>📫 Contactame: juniorfelixgb@gmail.com;</p>
 </div>
 
 ## 🛰 Ver [Proyectos!](... In Progress)
