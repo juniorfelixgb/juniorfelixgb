@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/33384019?s=460&u=4f77e1d961c3e36b8c0d471864c3ba8215f406f3&v=4" />
+   <img align="center" width="200" src="./images/OnePiece.jpeg" />
 </p>
 <p align="center">
   Hola 👋🏽, Soy [Junior felix!](https://github.com/juniorfelixgb) <br />
