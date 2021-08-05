@@ -21,14 +21,6 @@ Actualmente resido en Republica Dominicana 🇩🇴 <br />
 
 ## 🛰 Ver [Proyectos!](... In Progress)
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 #### Languages and Frameworks:
 
