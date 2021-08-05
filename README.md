@@ -63,7 +63,6 @@ Actualmente resido en Republica Dominicana 🇩🇴 <br />
 #### OS
 
 ![CLI](http://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=ffffff)
-___
 
 ### 📫 Let's Connect:
 [<img align="left" alt="JuniorFelixGB | Gmail" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juniorfelixgb@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
