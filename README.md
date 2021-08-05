@@ -79,9 +79,6 @@ Actualmente resido en Republica Dominicana 🇩🇴 <br />
 [<img align="left" alt="JuniorFelixGB | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/junior-gervacio/)
 [<img align="left" alt="JuniorFelixGB | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCSfqW4rk8k25f88G3PiC5Gw)
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=radical" align="left"/>
-
 <br />
 
 #### Languages and Tools
@@ -98,7 +95,7 @@ ___
 
 #### These Are My Github Stats :chart_with_upwards_trend:
 
-![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=zabalamelendez&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
+![Estadística resumidas de GitHu]<img src="https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=radical" align="left"/>
 ___
 
 #### My Streaks And Contributions :fire:
