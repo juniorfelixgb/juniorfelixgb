@@ -98,7 +98,7 @@ ___
 
 #### My Streaks And Contributions :fire:
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zabalamelendez&theme=tokyonight)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=juniorfelixgb&theme=tokyonight)  
 ___
 
 <br />
@@ -106,7 +106,7 @@ ___
 
 #### Most used languages :computer:
 
-![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=zabalamelendez&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
+![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorfelixgb&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
 
 ___
 
