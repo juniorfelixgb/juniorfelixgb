@@ -88,14 +88,6 @@ ___
 <br />
 <br />
 
-#### These Are My Github Stats :chart_with_upwards_trend:
-
-![Estadística resumidas de GitHu]<img src="https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=radical" align="left"/>
-___
-
-<br />
-<br />
-
 #### My Streaks And Contributions :fire:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=juniorfelixgb&theme=tokyonight)  
