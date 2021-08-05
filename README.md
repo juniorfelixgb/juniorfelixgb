@@ -85,15 +85,24 @@ Actualmente resido en Republica Dominicana 🇩🇴 <br />
  JS | Sourcetree | Xamarin.Forms
 ___
 
+<br />
+<br />
+
 #### These Are My Github Stats :chart_with_upwards_trend:
 
 ![Estadística resumidas de GitHu]<img src="https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=radical" align="left"/>
 ___
 
+<br />
+<br />
+
 #### My Streaks And Contributions :fire:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zabalamelendez&theme=tokyonight)  
 ___
+
+<br />
+<br />
 
 #### Most used languages :computer:
 
@@ -101,9 +110,9 @@ ___
 
 ___
 
-#### :v: Visitors Count
+#### :v: Visitantes
 
-![Visitor Count](https://profile-counter.glitch.me/zabalamelendez/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/juniorfelixgb/count.svg)
 
 ___
 
