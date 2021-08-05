@@ -20,9 +20,6 @@ Actualmente resido en Republica Dominicana 🇩🇴 <br />
 </div>
 
 ## 🛰 Ver [Proyectos!](... In Progress)
-
-<img src="https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=radical" align="left"/>
-
 <br />
 <br />
 <br />
@@ -82,3 +79,43 @@ Actualmente resido en Republica Dominicana 🇩🇴 <br />
 [<img align="left" alt="JuniorFelixGB | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/junior-gervacio/)
 [<img align="left" alt="JuniorFelixGB | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCSfqW4rk8k25f88G3PiC5Gw)
 <br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=radical" align="left"/>
+
+<br />
+
+#### Languages and Tools
+
+ |  Languages | Tools | Framewors |
+ | ----------- | ----------- |----------- |
+ C#    | Visual Studio | Bootstrap
+ ASP.NET MVC | VS Code | React.JS
+ .NET CORE | SQL Server Management Studio | MVC
+ ASP.NET NET CORE | Toad For Oracle | Vue.js
+ CSS3 | Android Studio | Angular
+ JS | Sourcetree | Xamarin.Forms
+___
+
+#### These Are My Github Stats :chart_with_upwards_trend:
+
+![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=zabalamelendez&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
+___
+
+#### My Streaks And Contributions :fire:
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zabalamelendez&theme=tokyonight)  
+___
+
+#### Most used languages :computer:
+
+![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=zabalamelendez&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
+
+___
+
+#### :v: Visitors Count
+
+![Visitor Count](https://profile-counter.glitch.me/zabalamelendez/count.svg)
+
+___
+
+##### Thanks!
