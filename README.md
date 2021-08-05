@@ -63,15 +63,13 @@ Actualmente resido en Republica Dominicana 🇩🇴 <br />
 #### OS
 
 ![CLI](http://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=ffffff)
-<br/>
-<br/>
+___
 
 ### 📫 Let's Connect:
 [<img align="left" alt="JuniorFelixGB | Gmail" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juniorfelixgb@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [<img align="left" alt="JuniorFelixGB | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/junior-gervacio/)
 [<img align="left" alt="JuniorFelixGB | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCSfqW4rk8k25f88G3PiC5Gw)
-<br />
-<br />
+___
 
 #### Languages and Tools
 
@@ -85,16 +83,10 @@ Actualmente resido en Republica Dominicana 🇩🇴 <br />
  JS | Sourcetree | Xamarin.Forms
 ___
 
-<br />
-<br />
-
 #### My Streaks And Contributions :fire:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=juniorfelixgb&theme=tokyonight)  
 ___
-
-<br />
-<br />
 
 #### Most used languages :computer:
 
