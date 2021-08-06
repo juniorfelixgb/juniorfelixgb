@@ -42,7 +42,7 @@ ___
 
 #### These Are My Github Stats :chart_with_upwards_trend:
 
-![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=zabalamelendez&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
+![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=juniorfelixgb&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
 ___
 
 #### My Streaks And Contributions :fire:
