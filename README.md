@@ -3,28 +3,27 @@
 </p>
 <p align="center">
   Hola 👋🏽, Soy [Junior felix!](https://github.com/juniorfelixgb) <br />
-   .NET Developer, Blazor Webassembly. <br />
-Actualmente resido en Republica Dominicana 🇩🇴 <br />
+   .NET Developer <br />
   **Sobre mi** <br />
-  Administrador de Blazor Dominicana 🇩🇴 <br />
+  Soy un ingeniero de software con más de 6 años de experiencia en el área de Desarrollo de Software. Soy una persona proactiva, organizado y enfocado en cuanto a mis responsabilidades. He colaborado en múltiples plataformas y estado en equipos multiculturales, en países como RD, Puerto Rico y EEUU. <br />
    :star2: :star2: :star2: :star2: :star2:
 </p>
 
 <div align="left">
     <p>👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades;</p>
-    <p>🌱 Actualmente estoy aprendiendo Blazor WebAssembly y Vue.js;</p>
+    <p>🌱 Actualmente estoy aprendiendo Arqutectura de Software;</p>
     <p>💬 Me mantengo en constante aprendizaje;</p>
-    <p>🛰 2021 Goals: Dominar Blazor WebAssemby y Blazor Mobile Bindings y mejorar mis habilidades dotnet;</p>
+    <p>🛰 2023 Goals: Dominar Blazor WebAssemby y MAUI y mejorar mis habilidades dotnet;</p>
     <p>💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;</p>
     <p>📫 Contactame: juniorfelixgb@gmail.com;</p>
 </div>
 
-## 🛰 Ver [Proyectos!](https://blue-stone-072337c0f.azurestaticapps.net/)
+## 🛰 Ver [Proyectos!](https://www.codingwithjunior.com/)
 <br />
 
 ### 📫 Let's Connect:
 [<img align="left" alt="JuniorFelixGB | Gmail" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juniorfelixgb@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[<img align="left" alt="JuniorFelixGB | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/junior-gervacio/)
+[<img align="left" alt="JuniorFelixGB | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juniorfelixgb/)
 [<img align="left" alt="JuniorFelixGB | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCSfqW4rk8k25f88G3PiC5Gw)
 <br />
 
