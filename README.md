@@ -29,14 +29,14 @@
 
 #### Languages and Tools
 
- |  Languages | Tools | Framewors |
+ |  Languages | Tools | Frameworks |
  | ----------- | ----------- |----------- |
  C#    | Visual Studio | Bootstrap
  ASP.NET MVC | VS Code | React.JS
  .NET CORE | SQL Server Management Studio | MVC
- ASP.NET NET CORE | Toad For Oracle | Vue.js
+ ASP.NET NET CORE | PostgreSQL | Blazor
  CSS3 | Android Studio | Angular
- JS | Sourcetree | Xamarin.Forms
+ JS | Sourcetree | MAUI
 ___
 
 #### These Are My Github Stats :chart_with_upwards_trend:
