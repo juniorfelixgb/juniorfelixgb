@@ -18,7 +18,7 @@
     <p>📫 Contactame: juniorfelixgb@gmail.com;</p>
 </div>
 
-## 🛰 Ver [Proyectos!](https://www.codingwithjunior.net/)
+## 🛰 Ver [Proyectos!](https://codingwithjunior.net/)
 <br />
 
 ### 📫 Let's Connect:
