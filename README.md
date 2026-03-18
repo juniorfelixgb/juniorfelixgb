@@ -101,13 +101,13 @@ ___
 
 #### Most used languages :computer:
 
-![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorfelixgb&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
+![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorfelixgb&layout=compact&show_icons=true&langs_count=10&theme=tokyonight)
 
 ___
 
 #### :v: Visitantes
 
-![Visitor Count](https://profile-counter.glitch.me/juniorfelixgb/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=juniorfelixgb&color=blue&style=flat-square&label=Visitantes)
 
 ___
 
